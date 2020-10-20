@@ -23,7 +23,7 @@ This is just the UI of the official Amazon App Landing Screen and the and the Wo
 
 ## App Demo.
 <p align ="middle">
- <img src="https://im.ezgif.com/tmp/ezgif-1-7c31166d68be.gif" width="200" height="400" />
+ <img src="https://firebasestorage.googleapis.com/v0/b/adarsh-kumar-singh.appspot.com/o/ezgif.com-gif-maker.gif?alt=media&token=c2321b3b-a453-450a-8aee-a522cecb4110" width="200" height="400" />
 
 
 
