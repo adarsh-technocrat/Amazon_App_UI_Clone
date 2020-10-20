@@ -13,9 +13,9 @@ This is just the UI of the official Amazon App Landing Screen and the and the Wo
 ## Screenshots
 
 <p align ="middle">
- <img src="https://user-images.githubusercontent.com/47661086/96566151-d6c3d800-12e2-11eb-9215-921643b6cbfb.jpg" width="250" height="400" />
-<img src = "https://user-images.githubusercontent.com/47661086/96566168-daeff580-12e2-11eb-8925-20ef7227fa78.jpg" width="250" height="400" /> 
-<img src ="https://user-images.githubusercontent.com/47661086/96566138-d297ba80-12e2-11eb-906d-b92f44fe570e.jpg" width="250" height="400"/>
+ <img src="https://user-images.githubusercontent.com/47661086/96566151-d6c3d800-12e2-11eb-9215-921643b6cbfb.jpg" width="220" height="400" />
+<img src = "https://user-images.githubusercontent.com/47661086/96566168-daeff580-12e2-11eb-8925-20ef7227fa78.jpg" width="220" height="400" /> 
+<img src ="https://user-images.githubusercontent.com/47661086/96566138-d297ba80-12e2-11eb-906d-b92f44fe570e.jpg" width="220" height="400"/>
 
 
 </p>
